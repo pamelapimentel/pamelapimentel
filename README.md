@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning DevOps**
 
-- 📫 How to reach me **pamelapimentelhuerta@gmail.com**
+- 📫 Reach me at: **pamelapimentelhuerta@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/drive/u/2/folders/1ztDjSgjdxeF0ehVhCR3O41M0Xo_dIfCR)
 
