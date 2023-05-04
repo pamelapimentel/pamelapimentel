@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me at: **pamelapimentelhuerta@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/drive/u/2/folders/1ztDjSgjdxeF0ehVhCR3O41M0Xo_dIfCR)
+- 📄 Know about my experiences [My CV](https://www.notion.so/pamela-pimentel/CV-Pamela-Pimentel-dfff5a91e43a46729689fd3543675d0b?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
