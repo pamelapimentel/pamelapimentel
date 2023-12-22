@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pamela</h1>
 <h3 align="center">A passionate data engineer from Lima, PE</h3>
 
-- 🔭 I’m currently working on **BRECA as a Senior People Analytics**
+- 🔭 I’m currently working on **Scotiabank as a Senior Data Engineer**
 
 - 🌱 I’m currently learning **Machine Learning DevOps**
 
